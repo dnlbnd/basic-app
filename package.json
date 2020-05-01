@@ -1,0 +1,14 @@
+{
+  "name": "digioceantestapp",
+  "version": "1.0.0",
+  "description": "Basic app to run on my droplet while I develop main app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
